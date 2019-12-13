@@ -9,7 +9,9 @@ html {
   box-sizing: inherit;
   }
 
-
+p {
+  text-align: center !important;
+}
 
 .row {
   display: flex;
@@ -135,14 +137,14 @@ html {
 
 .boxl9 {
   height: 50px;
-  width: 90%;
+  width: 74.97%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr9 {
   height: 50px;
-  width: 10%;
+  width: 25.03%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
