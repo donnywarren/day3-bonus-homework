@@ -1,0 +1,175 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  }
+
+
+
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+
+.boxl1 {
+  height: 50px;
+  width: 10%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr1 {
+  height: 50px;
+  width: 90%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl2 {
+  height: 50px;
+  width: 20%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr2 {
+  height: 50px;
+  width: 80%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl3 {
+  height: 50px;
+  width: 30%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr3 {
+  height: 50px;
+  width: 70%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl4 {
+  height: 50px;
+  width: 40%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr4 {
+  height: 50px;
+  width: 60%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl5 {
+  height: 50px;
+  width: 50%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr5 {
+  height: 50px;
+  width: 50%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxl6 {
+  height: 50px;
+  width: 60%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr6 {
+  height: 50px;
+  width: 40%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl7 {
+  height: 50px;
+  width: 70%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr7 {
+  height: 50px;
+  width: 30%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl8 {
+  height: 50px;
+  width: 80%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr8 {
+  height: 50px;
+  width: 20%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl9 {
+  height: 50px;
+  width: 90%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr9 {
+  height: 50px;
+  width: 10%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+.boxl10 {
+  height: 50px;
+  width: 90%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+.boxr10 {
+  height: 50px;
+  width: 10%;
+  background-color: lightgrey;
+  margin: 5px 20px 5px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ADVANCE CSS SELECTORS */
