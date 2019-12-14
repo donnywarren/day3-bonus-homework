@@ -14,6 +14,7 @@ p {
   text-transform: uppercase;
   font-size: 12px;
   position: relative;
+  top: 16px;
 }
 
 div {
@@ -29,14 +30,14 @@ div {
 
 .boxl1 {
   height: 50px;
-  width: 10%;
+  width: 8.37%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr1 {
   height: 50px;
-  width: 90%;
+  width: 91.63%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
@@ -44,70 +45,70 @@ div {
 
 .boxl2 {
   height: 50px;
-  width: 20%;
+  width: 16.70%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr2 {
   height: 50px;
-  width: 80%;
+  width: 83.30%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxl3 {
   height: 50px;
-  width: 30%;
+  width: 25.03%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr3 {
   height: 50px;
-  width: 70%;
+  width: 74.97%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxl4 {
   height: 50px;
-  width: 40%;
+  width: 33.36%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr4 {
   height: 50px;
-  width: 60%;
+  width: 66.64%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxl5 {
   height: 50px;
-  width: 50%;
+  width: 41.69%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr5 {
   height: 50px;
-  width: 50%;
+  width: 58.31%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxl6 {
   height: 50px;
-  width: 60%;
+  width: 50.02%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr6 {
   height: 50px;
-  width: 40%;
+  width: 49.98%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
@@ -115,14 +116,14 @@ div {
 
 .boxl7 {
   height: 50px;
-  width: 70%;
+  width: 58.35%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr7 {
   height: 50px;
-  width: 30%;
+  width: 41.65%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
@@ -130,14 +131,14 @@ div {
 
 .boxl8 {
   height: 50px;
-  width: 66.67%;
+  width: 66.68%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr8 {
   height: 50px;
-  width: 33.33%;
+  width: 33.32%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
@@ -145,14 +146,14 @@ div {
 
 .boxl9 {
   height: 50px;
-  width: 75%;
+  width: 75.01%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
 
 .boxr9 {
   height: 50px;
-  width: 25.00%;
+  width: 24.99%;
   background-color: lightgrey;
   margin: 5px 20px 5px 20px;
 }
