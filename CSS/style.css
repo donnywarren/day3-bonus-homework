@@ -9,12 +9,17 @@ html {
   box-sizing: inherit;
   }
 
+
+body {
+  font: 11px Arial, sans-serif;
+}
+
+
 p {
   display: inline !important;
   text-transform: uppercase;
-  font-size: 12px;
   position: relative;
-  top: 16px;
+  top: 19px;
 }
 
 div {
